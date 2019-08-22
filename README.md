@@ -7,7 +7,9 @@
 
 * [Accepted proposals OSGeo](https://wiki.osgeo.org/wiki/Google_Summer_of_Code_2019_Accepted)
 
-* [Wiki Page](https://github.com/Maureque/gvsig-gsoc2019-topology/wiki/1.-New-rules-for-the-Topology-Framework-in-gvSIG-Desktop)
+* [Wiki Page](https://github.com/Maureque/gvsig-gsoc2019-topology/wiki)
+* [Página Wiki Habla Hispana](https://github.com/Maureque/2019GSoC_versionHablaHispana/wiki)
+* [Pagina Wiki in Italiano](https://github.com/Maureque/GSoC_2019-Italiano/wiki)
 
 * Complete repository of the topology framework: https://github.com/gvsig-sandbox
 
